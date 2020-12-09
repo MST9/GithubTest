@@ -13,3 +13,7 @@ Ans- Whenever their is change in logic add it to staging area and then commit it
 Q4 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Ans- Creating branch could help in way that when you commit changes to branch and run that code and later you found bug you can undo those changes without affecting your main code, if main code is used by some other people. 
+
+Q5 How do the diagrams help you visualize the branch structure?
+
+Ans- Through diagrams it makes clear what are different branches and in which branch we can commit changes.
