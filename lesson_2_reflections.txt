@@ -1,3 +1,11 @@
 Q1 What happens when you initialize a repository? Why do you need to do it?
 
 Ans- It creates a git repository from a directory.
+
+Q2 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans- Staging area adds file to it without commiting it. I think if you want to commit more than one file then it is useful.
+
+Q3 How can you use the staging area to make sure you have one commit per logical change?
+
+Ans- Whenever their is change in logic add it to staging area and then commit it. In this way their will be one commit per logical change.
