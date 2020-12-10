@@ -17,3 +17,11 @@ Ans- Creating branch could help in way that when you commit changes to branch an
 Q5 How do the diagrams help you visualize the branch structure?
 
 Ans- Through diagrams it makes clear what are different branches and in which branch we can commit changes.
+
+Q6 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans- Result whatever changes are there is one branch gets added to another branch. Diagram indicates commits that can be reached. So merging is represented in that manner because both braches can be reached from it.
+
+Q7 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans- Benefit is that we do not need to resolve the conflict. Disadvantage is that it is unable to do comparison which piece of code takes less time memory efficient, so it can arbitarily accept any one code without looking parameters such as memory, run time etc.
