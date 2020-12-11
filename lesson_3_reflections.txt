@@ -1,3 +1,7 @@
 Q1 When would you like to create a remote repository instead of keepoing your work local?
 
 Ans- When I want to push or pull changes from Github to my local repository.
+
+Q2 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Ans- Because there can be several commits that are a part of one logical change if git automatically updates with remote repository it can pull changes that are part of one logical change and not complete logical change whereas in manually pulling changes we have flexibiltiy of pulling changes that represent one logical change.
