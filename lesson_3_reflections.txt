@@ -16,4 +16,8 @@ Ans- Forks are used to clone github repository from one github account to anothe
 
 Q4 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-Ans- I do not know.     
+Ans- I do not know.
+
+Q5 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans- SVN can be used in place of git and github. More harder way could be to share zip file of the project.     
