@@ -20,4 +20,8 @@ Ans- I do not know.
 
 Q5 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-Ans- SVN can be used in place of git and github. More harder way could be to share zip file of the project.     
+Ans- SVN can be used in place of git and github. More harder way could be to share zip file of the project.
+
+Q6 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ans- When collaborating make changes in different branch. When working alone commit directly to master.   
