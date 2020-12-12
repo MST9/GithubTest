@@ -13,3 +13,7 @@ Ans- Forks are used to clone github repository from one github account to anothe
      Clones are used to clone github repository from github account to local repositoy or from local repository to another local repository.
      
      Branches are used when you want to add new features to your code without directly adding it to your production ready code that is in master. You want to test it further.
+
+Q4 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans- I do not know.     
